@@ -1,3 +1,5 @@
+
+-- Testing Github changes
 -- Name: categories; Type: TABLE; Schema: dbo;
 CREATE TABLE categories (
     category_id smallint NOT NULL PRIMARY KEY,
