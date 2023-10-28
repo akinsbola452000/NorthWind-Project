@@ -143,7 +143,8 @@ PART TWO (Logical Operator using Orders Table)
 Part Three
 
 •	Question: Retrieve the top 5 customers who have made the most orders. Include customer details and order counts.
-•	Question: List the employees who have placed the most orders. Include employee details and order counts.
+•	
+	Question: List the employees who have placed the most orders. Include employee details and order counts.
 •	Question: Retrieve all products and calculate the average price for each category. Show the category name, product name, and average price.
 •	Question: List the top 3 customers who made the highest total purchases. Show customer details and total purchase amount.
 •	Calculate the rank of each product by price within its category. Show the product name, price, category, and rank.
