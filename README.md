@@ -8,7 +8,7 @@ Steps:
 1.	Create the database named ‘Northwnd’
 2.	Use the diagram below to design and create the tables 
 3.	Load data into the tables
-a.	The following tables will be loaded manually with Insert statements (Shippers,Suppliers, and US_states). In the Shippers and Suppliers tables, auto generate the Shippers_id and supplier_id respectively. The values for these tables are provided in the appendix a.
+a.	The following tables will be loaded manually with Insert statements (Shippers,Suppliers, and US_states). In the Shippers and Suppliers tables, auto generates the Shippers_id and supplier_id respectively. The values for these tables are provided in appendix a.
 b.	The data for the remaining tables are provided as csv files which should then be loaded into the tables.
 c.	Data for Customer_demographics and Customer_demo are missing but the tables should be created.
 4.	Perform the following:
