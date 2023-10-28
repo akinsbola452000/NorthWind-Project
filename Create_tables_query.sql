@@ -14,6 +14,7 @@ CREATE TABLE dbo.customer_demographics (
     customer_desc text
 );
 
+--Testing Gihub changes 2
 -- Name: customers; Type: TABLE; Schema: dbo;
 CREATE TABLE customers (
     customer_id char(5) NOT NULL PRIMARY KEY,
